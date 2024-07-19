@@ -8,7 +8,7 @@ presentation card: https://github.com/anuraghazra/github-readme-stats
 
 
 ### A little about me 🤔
-- Currently not working or involved in any specific projects, but interested in joining one
+- Currently not working or involved on any specific projects, but interested in joining one
 - Interested in all kinds of tech innovation and advances, from hardware to software
 - Constantly seeking to develop and gain new skills and experiences in my main area
 - Enjoy learning about various fields, including science, economics, history and more
