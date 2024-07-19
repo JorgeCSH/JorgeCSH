@@ -11,6 +11,10 @@ I'am an engineering student at Universidad de Chile, currently in computer scien
 - Programming languages: primarily Python with some previous experience in C, C++ (arduino), R, and MATLAB
 - Brief experience with YOLOv8 for object detection
 
+## Contact/Connect
+
+<a href="mailto:jorge.cummins.hs@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jorge-cummins-holger-347053305/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <!--
 
 
