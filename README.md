@@ -40,6 +40,7 @@ where did I get the icons: https://github.com/alexandresanlim/Badges4-README.md-
 
 
 <!--
+No lo borro por si las moscas 
 **JorgeCSH/JorgeCSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
