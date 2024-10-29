@@ -26,7 +26,7 @@ where did I get the icons: https://github.com/alexandresanlim/Badges4-README.md-
 
 ### Stats 📈
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeCSH&langs_count=8)[^2]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeCSH&hide=jupyter%20notebook&langs_count=8)[^2]
 <!--[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JorgeCSH)](https://github.com/JorgeCSH/github-readme-stats)-->
 
 
