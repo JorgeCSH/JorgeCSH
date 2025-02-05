@@ -25,7 +25,7 @@ where did I get the icons: https://github.com/alexandresanlim/Badges4-README.md-
 <a href="https://www.linkedin.com/in/jorge-cummins-holger-347053305/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ### Stats 📈
-<!-- So it doesn't show jupyter notebook and tex files
+<!-- So it doesn't show jupyter notebook and tex files -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeCSH&hide=jupyter%20notebook,tex&langs_count=8)[^2]
 <!--[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JorgeCSH)](https://github.com/JorgeCSH/github-readme-stats)-->
 
