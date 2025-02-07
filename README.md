@@ -26,7 +26,15 @@ I’m not currently working on or involved in any specific projects, but I’m e
 <br>
 
 ## <p align=center> My stats 📊 📈 </p>
-  ![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeCSH&show_icons=true&theme=tokyonight)[^1] ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeCSH&hide=jupyter%20notebook,tex&langs_count=8)[^2]
+<div align=center markdown>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeCSH&size_weight=0&count_weight=1&hide=jupyter%20notebook,tex,shell&langs_count=8&theme=tokyonight&layout=donut&custom_title=Most%20used%20language%20by%20repository)
+
+  ![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeCSH&show_icons=true&theme=tokyonight)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=JorgeCSH&theme=tokyonight)](https://git.io/streak-stats)
+ 
+  [![JorgeCSH github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JorgeCSH&custom_title=My%20Activity&hide_border=false&theme=tokyo-night)](https://github.com/JorgeCSH/github-readme-activity-graph)
+</div>
 <br>
 
 ## <p align=center> My station(s) </p> 
