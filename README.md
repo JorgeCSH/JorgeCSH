@@ -1,12 +1,22 @@
-## Nice to meet you, I'am Jorge 👋:
-I'am an engineering student at Universidad de Chile.
-Currently in computer science but with one semester of experience in electrical engineering.
+# Nice to meet you, I'am Jorge 👋:
+
+## <p align=center> A little about me</p>
+I'am an engineering student at Universidad de Chile. Currently in computer science but with previous experience from courses of electrical engineering (most of it related to electronics).
+
+
+##
+|<strong>Previous Knowladge<strong>        | <strong>Currently Learning<strong>  |<strong>Future Ideas<strong>|
+|------------------------------------------|-------------------------------------|----------------------------|
+| Python                                   | Webdev (html, css, javascript)      | Rust programming language  |
+| c/c++                                    |                                     | Improve abilities with AI  |
+| lua                                      |                                     |                            |
+| git (amazingly)                          |                                     |                            |
+| engineering tools such as matlab and R   |                                     |                            |
+| UNIX/Linux bases                         |                                     |                            |
 <!--
 presentation card: https://github.com/anuraghazra/github-readme-stats
 -->
 ![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeCSH&show_icons=true&theme=tokyonight)[^1]
-
-
 ### A little about me 🤔
 - Currently not working or involved on any specific projects, but interested in joining one
 - Interested in all kinds of tech innovation and advances, from hardware to software
