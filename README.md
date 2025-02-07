@@ -46,8 +46,7 @@ I’m not currently working on or involved in any specific projects, but I’m e
 <p align=center> <img alt="IUABTW" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"><img alt="debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"><img alt="ubunga" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"><img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"><img alt="fedora" src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white"><img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"><img alt="freebsd" src="https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white"> </p>
 <p align=center> <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"><img alt="MAC" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"> </p>
 
-
-#### Editors (my weapons)
+### Editors (my weapons)
 * Main: Neovim, if you want to check my config [click here](https://github.com/JorgeCSH/NVim-config)
 * Second: JetBrains software experience (pycharm most of it)
 * Used before: vim, vscode, google colab, arduino ide, ...
