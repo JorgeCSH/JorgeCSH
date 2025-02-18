@@ -32,7 +32,9 @@ I’m not currently working on or involved in any specific projects, but I’m e
 ## <p align=center> My stats 📊 📈 </p>
 <div align=center markdown>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeCSH&size_weight=0&count_weight=1&hide=jupyter%20notebook,tex,shell&langs_count=8&theme=tokyonight&layout=donut&custom_title=Most%20used%20language%20by%20repository)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeCSH&size_weight=0&count_weight=1&hide=jupyter%20notebook&langs_count=8&theme=tokyonight&layout=donut&custom_title=Most%20used%20language%20by%20repository)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeCSH&hide=jupyter%20notebook&langs_count=8&theme=tokyonight&layout=donut&custom_title=Most%20used%20languages,%20stats)
+  
   
   ![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeCSH&show_icons=true&theme=tokyonight)
   
