@@ -46,7 +46,7 @@ I’m not currently working on or involved in any specific projects, but I’m e
 
 ## <p align=center> My station(s) </p> 
 ### Setups (my classes) 
-- Main setup: PC with windows and arch linux dual boot, if you want to check my hyprland config [click here](https://github.com/JorgeCSH/I-use-Arch-btw).
+- Main setup: PC with windows and arch linux dual boot, [to check my config](https://github.com/JorgeCSH/I-use-Arch-btw).
 - Portable setup: laptop with arch linux and debian dual boot.
 - 2013 macbook pro: currently with fedora linux, but it also had freeBSD and kali linux for a while (don't ask).
 - C58 Compaq laptop: with ubuntu installed.
@@ -54,7 +54,7 @@ I’m not currently working on or involved in any specific projects, but I’m e
 <p align=center> <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"><img alt="MAC" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"> </p>
 
 ### Editors (my weapons)
-* Main: Neovim, if you want to check my config [click here](https://github.com/JorgeCSH/NVim-config)
+* Main: Neovim, [here](https://github.com/JorgeCSH/NVim-config) if you want to check my config
 * Second: JetBrains software experience (pycharm most of it)
 * Used before: vim, vscode, google colab, arduino ide, ...
 <p align=center> <img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"><img alt="pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"><img alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"><img alt="VScode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"><img alt="Arduino" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"><img alt="idea" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"><img alt="clion" src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"> </p>
@@ -67,7 +67,7 @@ I’m not currently working on or involved in any specific projects, but I’m e
 - I’m constantly seeking to develop and gain new skills and experiences.
 - I love learning, not just in the tech world but also about history, economics, natural science, and more! 🤓
 - I enjoy gaming, with favorites including the original Luigi's Mansion (GameCube version), Pokémon, Minecraft, and Paradox strategy games like Hearts of Iron. 🎮
-- I enjoy reading, and my favorite book is 1984 by George Orwell. If you're curious about what I'm currently reading, just [click here](https://www.goodreads.com/user/show/181444301-jorge-cummins). 📚
+- I enjoy reading, and my favorite book is 1984 by George Orwell. If you're curious about what I'm currently reading, just [check here](https://www.goodreads.com/user/show/181444301-jorge-cummins). 📚
 <br>
 
 ## <p align=center> Contact/Connect 📫 </p>
