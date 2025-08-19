@@ -62,7 +62,7 @@ I’m not currently working on or involved in any specific projects, but I’m e
   
 
 ## <p align=center> Some "fun facts" about me </p> 
-- I use Arch btw.
+- I use Arch btw[^3].
 - I’m always interested in all kinds of tech innovations and advancements, from hardware to software.
 - I’m constantly seeking to develop and gain new skills and experiences.
 - I love learning, not just in the tech world but also about history, economics, natural science, and more! 🤓
@@ -80,3 +80,4 @@ where did I get the icons: https://github.com/alexandresanlim/Badges4-README.md-
 
 [^1]: I haven’t been involved in any projects.
 [^2]: Referring to public repositories.
+[^3]: Not my main OS now.
