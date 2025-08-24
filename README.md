@@ -1,7 +1,7 @@
-# Nice to meet you, I'am Jorge 👋:
+# Nice to meet you, I am Jorge 👋:
 
 ## <p align=center> A little about me</p>
-I'am an engineering student at Universidad de Chile. Currently in computer science but with previous experience from courses of electrical engineering (most of it related to electronics).
+I am an engineering student at Universidad de Chile. Currently in computer science but with previous experience from courses of electrical engineering (most of it related to electronics).
 <div align=center markdown>
   
   | What I have done | Interested In |
